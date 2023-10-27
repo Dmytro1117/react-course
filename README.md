@@ -1,12 +1,6 @@
 # react-course (lesson 1)
 
 - [Концепция Virtual DOM](https://illustrated.dev/react-vdom)
-- [create-react-app](https://create-react-app.dev/)
-  - webpack
-  - babel
-  - eslint
-  - react
-  - react-dom
 - React-элементы и `React.createElement()`
   - Тип элемента
   - Пропсы

@@ -1,4 +1,4 @@
-# react-course (lesson 13)
+# react-course (lesson 14)
 
 - useEffect и пропуск первого рендера
 - Покемоны

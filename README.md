@@ -1,6 +1,6 @@
 # ToDo
 
-![React](./assets/ToDo.png)
+![ToDo](./assets/ToDo.png)
 
 ## Стек технологій
 
